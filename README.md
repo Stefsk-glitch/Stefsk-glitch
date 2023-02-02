@@ -11,4 +11,4 @@ Discord: Stefs#4404
   <img src="https://streak-stats.demolab.com/?user=stefsk-glitch&theme=synthwave" />
 </p>
 
-<a href="https://visits.roshan.cyou/%22%3E<img src="https://visits.roshan.cyou/lguUhXHU5hRi42RjA3ia?label=Profile%20views&shadow=1&shadowOpacity=28&swap=0&labelBGColor=484848&countBGColor=5f1a6a&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
+<img src="https://visits.roshan.cyou/lguUhXHU5hRi42RjA3ia?label=Profile%20views&shadow=1&shadowOpacity=28&swap=0&labelBGColor=484848&countBGColor=5f1a6a&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
