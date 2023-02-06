@@ -10,5 +10,3 @@ Discord: Stefs#4404
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=stefsk-glitch&theme=synthwave" />
 </p>
-
-https://visits.roshan.cyou/t9daRx8RTZk1QuUcSnlB?label=Visitors&shadow=1&shadowOpacity=100&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF
