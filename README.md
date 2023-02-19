@@ -15,6 +15,6 @@ Discord: Stefs#4404
   <img src="https://streak-stats.demolab.com/?user=stefsk-glitch&theme=synthwave" />
 </p>
 
-![Snake](https://github.com/Stefsk-glitch/Stefsk-glitch/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/IanToujou/IanToujou/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://visits.roshan.cyou"><img src="https://visits.roshan.cyou/JBpsrY5Tvj6khjyirtGv?label=Visitors&shadow=1&shadowOpacity=100&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
