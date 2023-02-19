@@ -1,5 +1,5 @@
 <p align="left">
-<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=%2311cc0a&vCenter=true&width=500&lines=>+./welcome.sh;I'm+happy+to+see+you+I+hope+you+have+a+wonderful+day!;"/>
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=%2311cc0a&vCenter=true&width=500&lines=>+./welcome.sh;Hi,+i'm+happy+to+see+you;"/>
 </p>
 
 - Studying computer science at Avans university of applied sciences in Breda, The Netherlands.
