@@ -9,9 +9,6 @@ Discord: Stefs#4404
 
 ![My Skills](https://skillicons.dev/icons?i=idea,java,py,stackoverflow,visualstudio,mysql,linux,github,docker,cs,arduino,raspberrypi,mongodb,sqlite,vscode,wordpress&theme=dark&perline=8)
 
-
-
-
 <details>
 <summary>Github stats ? 🤔</summary>
 <br>
