@@ -12,7 +12,7 @@ Discord: Stefs#4404
 <details>
 <summary>Github stats ? 🤔</summary>
 <br>
-Here 🤗. 
+Here 🤗  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefsk-glitch&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefsk-glitch&theme=synthwave)
