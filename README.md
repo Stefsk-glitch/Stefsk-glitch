@@ -9,11 +9,20 @@ Discord: Stefs#4404
 
 ![My Skills](https://skillicons.dev/icons?i=idea,java,py,stackoverflow,visualstudio,mysql,linux,github,docker,cs,arduino,raspberrypi,mongodb,sqlite,vscode,wordpress&theme=dark&perline=8)
 
+
+
+
+<details>
+<summary>Github stats ? 🤔</summary>
+<br>
+Here 🤗
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefsk-glitch&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefsk-glitch&theme=synthwave)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=stefsk-glitch&theme=synthwave" />
 </p>
+</details>
 
 ![Snake](https://github.com/IanToujou/IanToujou/blob/output/github-contribution-grid-snake.svg)
 
