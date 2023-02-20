@@ -8,7 +8,9 @@ name: Generate Snake
   #schedule:
       # every 6 hours
     #- cron: "0 */6 * * *"
-    
+
+# Controls when the action will run. This action runs every 5 minutes.
+
 on:
   schedule:
     - cron: '*/5 * * * *'
