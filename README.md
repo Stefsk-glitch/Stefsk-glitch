@@ -13,7 +13,6 @@ Languages:
 - Ik spreek Nederlands.
 - I speak English.
 - Jag prater lite Svenska.
-- Я тоже немного говорю.
 
 <details>
 <summary>Github stats ? 🤔</summary>
