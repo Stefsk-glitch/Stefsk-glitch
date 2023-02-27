@@ -10,10 +10,10 @@ Discord: Stefs#4404
 ![My Skills](https://skillicons.dev/icons?i=idea,java,py,stackoverflow,visualstudio,mysql,linux,github,docker,cs,arduino,raspberrypi,mongodb,sqlite,vscode,wordpress&theme=dark&perline=8)
 
 Languages: 
-Ik spreek Nederlands.
-I speak English.
-Jag prater lite Svenska.
-Я тоже немного говорю.
+- Ik spreek Nederlands.
+- I speak English.
+- Jag prater lite Svenska.
+- Я тоже немного говорю.
 
 <details>
 <summary>Github stats ? 🤔</summary>
