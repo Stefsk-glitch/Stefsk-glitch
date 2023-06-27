@@ -20,8 +20,8 @@ Languages:
 Here 🤗
 <br/><br/> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefsk-glitch&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefsk-glitch&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stefsk-glitch&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stefsk-glitch&theme=synthwave)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=stefsk-glitch&theme=synthwave" />
 </p>
