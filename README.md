@@ -7,7 +7,7 @@
 
 Discord: Stefs#4404
 
-![My Skills](https://skillicons.dev/icons?i=idea,java,py,visualstudio,mysql,github,arduino,raspberrypi,vscode&theme=dark&perline=4)
+![My Skills](https://skillicons.dev/icons?i=idea,java,py,visualstudio,mysql,github,arduino,raspberrypi,vscode&theme=dark&perline=3)
 
 Languages: 
 - Ik spreek Nederlands.
