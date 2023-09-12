@@ -26,5 +26,3 @@ Here 🤗
   <img src="https://streak-stats.demolab.com/?user=stefsk-glitch&theme=synthwave" />
 </p>
 </details>
-
-![Snake](https://github.com/Stefsk-glitch/Stefsk-glitch/blob/output/github-contribution-grid-snake.svg)
