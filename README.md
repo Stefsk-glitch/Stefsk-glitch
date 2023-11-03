@@ -5,7 +5,7 @@
 - Studying computer science at Avans university of applied sciences in Breda, The Netherlands.
 - Currently learning C#.
 
-Discord: Stefs#4404
+Discord: stefs
 
 ![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode,java,py,arduino,github,raspberrypi&theme=dark&perline=3)
 
