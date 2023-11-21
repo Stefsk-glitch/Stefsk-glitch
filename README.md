@@ -12,7 +12,7 @@ Discord: stefs
 Languages: 
 - Ik spreek Nederlands.
 - I speak English.
-- Jag prater lite Svenska.
+- Jag pratar lite Svenska.
 
 <details>
 <summary>Github stats ? 🤔</summary>
