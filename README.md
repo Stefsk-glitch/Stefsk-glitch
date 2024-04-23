@@ -3,11 +3,11 @@
 </p>
 
 - Studying computer science at Avans university of applied sciences in Breda, The Netherlands.
-- Currently learning C.
+- Currently learning C++.
 
 Discord: stefs
 
-![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,java,py,arduino,github,raspberrypi,cs&theme=dark&perline=3)
+![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,java,py,arduino,github,c,raspberrypi,cs&theme=dark&perline=3)
 
 Languages: 
 - Ik spreek Nederlands.
