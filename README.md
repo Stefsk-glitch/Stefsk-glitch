@@ -14,6 +14,12 @@ Languages:
 - I speak English.
 - Jag pratar lite Svenska.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stefsk-glitch/Stefsk-glitch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stefsk-glitch/Stefsk-glitch/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Stefsk-glitch/Stefsk-glitch/output/github-snake.svg" />
+</picture>
+
 <details>
 <summary>Github stats ? 🤔</summary>
 <br>
