@@ -20,15 +20,8 @@ Languages:
   <img alt="github-snake" src="https://raw.githubusercontent.com/Stefsk-glitch/Stefsk-glitch/output/github-snake.svg" />
 </picture>
 
-<details>
-<summary>Github stats ? 🤔</summary>
-<br>
-Here 🤗
-<br/><br/> 
-
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stefsk-glitch&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stefsk-glitch&theme=synthwave)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=stefsk-glitch&theme=synthwave" />
 </p>
-</details>
