@@ -25,3 +25,13 @@ Languages:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=stefsk-glitch&theme=synthwave" />
 </p>
+
+The main rules i try to follow when writing code:
+- Avoid nesting
+- KISS (Keep It Simple, Stupid)
+- DRY (Don't Repeat Yourself)
+- SRP (Single Responsibility Principle)
+- Meaningful variable and function names (If "and" is used the name and the logic should be split into two pieces)
+- Avoid magic numbers --> use constants
+- Comment wisely --> explain why, not what, if the code is self explanatory.
+- Separate code into blocks.
