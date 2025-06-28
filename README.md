@@ -3,7 +3,7 @@
 </p>
 
 - Studying computer science at Avans university of applied sciences in Breda, The Netherlands.
-- Currently learning hyperspectral imaging.
+- I'm currently studying a minor in artificial intelligence as part of my degree.
 
 Discord: stefs
 
