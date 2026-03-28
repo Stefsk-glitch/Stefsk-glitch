@@ -6,7 +6,7 @@
 
 Discord: stefs
 
-![My Skills](https://skillicons.dev/icons?i=arduino,py,raspberrypi,java,mysql,git,kotlin,cs,postman,c,cmake,bash,linux,cpp,opencv,tensorflow,docker,pytorch,ros,unity&theme=dark&perline=5)
+![My Skills](https://skillicons.dev/icons?i=arduino,py,raspberrypi,java,mysql,git,kotlin,cs,postman,c,cmake,bash,linux,cpp,opencv,tensorflow,docker,pytorch,ros,unity,anaconda,android,androidstudio,api,azuredevops,bitbucket,flask,freecad,googlecolab,html,huggingface,illustrator,kaggle,matlab,maven,mermaid,mint,mongodb,nodejs,notepadpp,npm,numpy,qt,rabbitmq,ollama,scikitlearn,sqlite,vscode,uml,ubuntu,terminal,swagger,wordpress,wsl,yaml,&theme=dark&perline=5)
 
 Languages: 
 - Ik spreek Nederlands.
